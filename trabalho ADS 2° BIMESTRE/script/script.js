@@ -1,4 +1,7 @@
-    //Exercicio 1//
+
+//TRABALHO FEITO SOZINHO POR GUSTAVO DE LIMA RA:00246437//
+
+//Exercicio 1//
 
 function calcularArea() {
     let comprimento = parseFloat(document.getElementById("comprimento").value);
